@@ -1,5 +1,5 @@
 # Useful-Methods-Pandas
-Cover some useful methods and functions built in to pandas. This is actually just a small sampling of the functions and methods available in Pandas, but they are some of the most commonly used. The documentation is a great resource to continue exploring more methods and functions (we will introduce more further along in the course). Here is a list of functions and methods we'll cover here:
+Covers some useful methods and functions built in to pandas. This is actually just a small sampling of the functions and methods available in Pandas, but they are some of the most commonly used. The documentation is a great resource to continue exploring more methods and functions (we will introduce more further along in the course). Here is a list of functions and methods we'll cover here:
 
 apply() method
 apply() with a function
